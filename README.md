@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ankit638
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Building Hack Models
+- 🌱 I’m currently learning Programming 
+- 💞️ I’m looking to collaborate on just ask!!!
 - 📫 How to reach me ... @ankitchxdrkr_
 
 <!---
