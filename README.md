@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankit638
 - 👀 I’m interested in Robotics as per Passion and Web Developer as Profession + Graphic Designing 
-- 🌱 I’m at Final Year of B.Tech in Computer Science and Engineering
+- 🌱 I’m at Final Year of B.Tech in Computer Science and Engineering (Passed on 2025, **not removing the old line as this remind of something I was)
 - 📫 How to reach me ... ankitchndrkr@gmail.com
   
 
